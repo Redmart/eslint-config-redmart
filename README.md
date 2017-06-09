@@ -21,4 +21,4 @@ Create an `.eslintrc` file and add this config to the `extends` section
 Since adding new rules or modifying existing rules might break builds, such changes should result in a major version bump.
 
 
-Handcrafted with ♥ at Redmart.
+Handcrafted with ❤️ at RedMart.
