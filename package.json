@@ -1,0 +1,20 @@
+{
+	"name": "eslint-config-redmart",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Redmart/eslint-config-redmart.git"
+	},
+	"keywords": [
+        "eslint",
+        "eslintconfig"
+	],
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Redmart/eslint-config-redmart/issues"
+	},
+	"homepage": "https://github.com/Redmart/eslint-config-redmart"
+}
