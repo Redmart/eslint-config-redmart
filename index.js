@@ -10,6 +10,7 @@ module.exports = {
 		'eol-last': 2,
 		'eqeqeq': 2,
 		'guard-for-in': 2,
+		'import/order': [2, { 'groups': ['builtin', 'external', 'internal', 'parent', 'sibling', 'index'] }],
 		'indent': [2, 'tab', { 'SwitchCase': 1 }],
 		'keyword-spacing': [2, { 'before': true, 'after': true }],
 		'max-depth': [2, 3],

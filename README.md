@@ -2,7 +2,7 @@
 
 ### Installation
 `
-$ npm install --save-dev eslint eslint-config-redmart
+$ npm install --save-dev eslint eslint-plugin-import eslint-config-redmart
 `
 
 
